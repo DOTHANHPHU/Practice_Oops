@@ -1,0 +1,8 @@
+https://howkteam.vn/course/lap-trinh-java-co-ban-den-huong-doi-tuong/ke-thua-trong-lap-trinh-huong-doi-tuong-3868
+
+Khái niệm kế thừa
+- Kế thừa có nghĩa là thừa hưởng lại, ví dụ như tài sản của ba mẹ sẽ được giao lại cho con cái.
+
+- Kế thừa trong lập trình (Inheritance) có nghĩa là một lớp sẽ thừa hưởng lại những thuộc tính, phương thức từ lớp khác.
+
+- Việc sử dụng kế thừa nhằm tái sử dụng code đã viết trước đó, thuận tiện trong việc bảo trì và nâng cấp chương trình.

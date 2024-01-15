@@ -1,0 +1,8 @@
+https://howkteam.vn/course/lap-trinh-java-co-ban-den-huong-doi-tuong/overriding-va-overloading-trong-java-3879
+
+Overriding là gì? Cách sử dụng
+- Overriding (ghi đè) có nghĩa là có 2 phương thức giống nhau về tên và tham số truyền vào. Một phương thức ở lớp cha, còn cái kia ở lớp con.
+- Overriding  cho phép lớp con có thể thực hiện riêng biệt cho phương thức mà lớp cha đã cung cấp.
+
+Overloading là gì? Cách sử dụng
+- Overloading là nhiều phương thức trong một lớp có chung tên nhưng khác tham số truyền vào

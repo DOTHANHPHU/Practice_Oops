@@ -1,0 +1,5 @@
+https://howkteam.vn/course/lap-trinh-java-co-ban-den-huong-doi-tuong/tu-khoa-this-trong-lap-trinh-huong-doi-tuong-3867
+
+Từ khóa this làm gì?
+- Từ khóa this dùng để ánh xạ đối tượng hiện tại. Giống như trong lớp Student có rất nhiều đối tượng như bạn Châu, Long, Thanh,…
+- thì khi xử lý các thuộc tính và phương thức ta sẽ dùng từ ‘bạn ấy’ để ám chỉ đối tượng hiện tại cần thực hiện.

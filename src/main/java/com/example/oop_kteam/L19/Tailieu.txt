@@ -1,0 +1,7 @@
+https://howkteam.vn/course/lap-trinh-java-co-ban-den-huong-doi-tuong/tu-khoa-static-trong-lap-trinh-huong-doi-tuong-3866
+
+Từ khóa static làm gì?
+- Khi ta khai báo các thuộc tính, phương thức thì nó chỉ được sử dụng khi khởi tạo đối tượng, thông tin cũng thuộc đối tượng đó.
+
+- Có những lúc, ta cần những thông tin chung cho tất cả các đối tượng. Có nghĩa những thông tin đó lưu ở một vùng nhớ duy nhất.
+- Từ khóa static sử dụng để quản lý bộ nhớ, khi những thành viên bên trong một lớp có từ khóa static thì nó thuộc về lớp, không phải thuộc về riêng một đối tượng nào đó.
